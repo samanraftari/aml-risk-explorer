@@ -1,0 +1,18 @@
+{
+  "roc_auc": 0.8158,
+  "accuracy": 0.7967,
+  "sensitivity": 0.6154,
+  "specificity": 0.8468,
+  "precision": 0.5263,
+  "confusion_matrix": [
+    [
+      199,
+      36
+    ],
+    [
+      25,
+      40
+    ]
+  ],
+  "test_records": 300
+}
